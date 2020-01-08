@@ -39,7 +39,7 @@ The onboard antenna is good enough for you to test function, if you need to impl
 #### Links
 
 * [PCB source file and Gerber file](https://github.com/ZIOCC/Zio-Qwiic-LoRa-Dev-Board-434MHz)
-* Demo code (Coming soon)
+* Demo code (https://github.com/ZIOCC/Zio-Qwiic-LoRa-Dev-Board-434MHz/tree/master/arduino-LoRa-master)
 * [ATMEGA32U4-AU datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
 * [Arduino IDE Bootloader](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/download/1.2/adafruit_drivers.exe)
 
